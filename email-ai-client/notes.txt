@@ -1,6 +1,7 @@
 
 1. springboot installation and backend
 
+FRONTEND
 2. create vite@latest 
 by default having the dependencies of react and react dom 
 
@@ -16,5 +17,19 @@ by default having the dependencies of react and react dom
 -- $ npm install axios
 -- "axios": "^1.11.0", 
 
-5.
+5. CORS 
 
+-----------------------------------------------------
+
+CHROME EXTENSION
+1. go to the site https://developer.chrome.com/docs/extensions/get-started
+2. make the first hello world extension 
+3. create the mandtory files
+    i. manifest.json
+    ii. <fileName>.html
+    iii. <imageName>.png images
+4. This is Hello world extension only so we can create all files directly in single
+directory but for the proper extension you must create folders/different directories.
+
+5. Mutation Observer
+-- https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver
